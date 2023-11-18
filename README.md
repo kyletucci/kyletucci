@@ -1,8 +1,8 @@
-#Kyle Tucci
+# Kyle Tucci
 
 **`Software Engineer`**
 
-My name is Kyle Tucci. I am a software engineer passionate about creating interactive community driven projects. In my free time you can find me creating music, watching anime or trying out a new dairy-free cooking recipe (recommendations welcome)
+My name is Kyle Tucci. I am a software engineer passionate about creating interactive community driven projects. In my free time you can find me playing guitar, watching anime or trying out a new dairy-free cooking recipe (recommendations welcome)
 
 <p align="left">
   <a href="https://kyletucci.netlify.com">
@@ -18,3 +18,13 @@ My name is Kyle Tucci. I am a software engineer passionate about creating intera
     <img src="https://custom-icon-badges.demolab.com/badge/CODEWARS-salmon?logo=codewars"/>
   </a>
 </p>
+
+### Languages and Tools
+
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
