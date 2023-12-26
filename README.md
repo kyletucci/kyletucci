@@ -56,7 +56,7 @@
       <br>
       <p align="center" dir="auto">
        <a href="https://vite.budget.calculator.netlify.app/" rel="nofollow">
-        <img src="https://res.cloudinary.com/dcwvykrxv/image/upload/v1701818546/wf3j0iljjjlabffdulbt.gif" data-animated-image="" style="max-width: 100%;">
+        <img src="https://res.cloudinary.com/dcwvykrxv/image/upload/v1703600705/budget-calculator-demo_e560rz.gif" data-animated-image="" style="max-width: 100%;">
         </a>
       </p>
       <p align="center" dir="auto">
